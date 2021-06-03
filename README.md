@@ -1,4 +1,4 @@
-#BlueTwoChatApp
+
 
 BlueTwoChat is a safe and secure way to communicate with other Bluetooth-enabled devices. This application will first look for nearby Bluetooth-enabled devices. Once the devices have been discovered by the app, the app will display the discovered devices so that the user can choose which device to connect to.
 
