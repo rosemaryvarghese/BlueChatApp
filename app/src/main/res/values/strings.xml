@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BlueChatApp</string>
+    <string name="str_label_btn_send">Send</string>
+    <string name="str_menu_s_dev">Search for Devices</string>
+    <string name="str_menu_blon">Switch Bluetooth On</string>
+
+    <string name="str_pair_dev">Paired Devices</string>
+    <string name="str_avail_dev">Available Devices</string>
+    <string name="str_menu_scan_dev">Scan All Devices</string>
+</resources>
